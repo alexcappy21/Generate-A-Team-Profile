@@ -1,0 +1,36 @@
+h1 {
+    background-color: red;
+    padding: 50px;
+    margin-bottom: 25px;
+    color: white;
+}
+
+.member-card {
+    width: 250px;
+    height: 250px;
+    margin-bottom: 5vh;
+    background-color: rgb(240, 238, 238);
+    box-shadow: 2px 5px 5px black;
+    border-top-left-radius: 10px;
+}
+
+h2{
+    text-align: center;
+    color: white;
+}
+
+
+
+.card-top {
+    background-color:cornflowerblue ;
+}
+    
+.card-container {
+    position: absolute;
+    top: 26vh;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    width: 90%;
+    
+}
